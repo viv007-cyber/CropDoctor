@@ -1,7 +1,7 @@
 
 # 🌾 AgriSmart - AI-Powered Plant Disease Detection & Advisory System
 
-![Smart Crop Doctor](https://your_project_banner_link_here.com) <!-- Add your banner or logo if available -->
+
 
 ## 🚀 Overview
 
